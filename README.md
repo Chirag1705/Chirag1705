@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chirag1705
+Hi 👋, I’m Chirag Agrawal
 - 👀 I’m interested in WEB Development
 - 🌱 I’m currently learning DSA and MERN Stack Techs
 - 💞️ I’m looking to collaborate on any kind of projects
